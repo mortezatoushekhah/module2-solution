@@ -4,11 +4,11 @@ text-align: center;
 }
 
 .box {
-  width:30%;
+  width:27%;
   background-color: gray;
   float: left;
-  padding: 10px;
-  margin-left: 1%;
+  padding: 1%;
+  margin-left: 3%;
 }
 
 .box p {
@@ -20,8 +20,15 @@ border: 1px solid black;
   float: right;
   background-color: #FF007F;
   text-align: center;
-  padding: 5px 15px;
+  right:0;
+  
 }
+
+.title h3 {
+  padding: 5px 15px;
+  
+}
+
 .title2 {
 border: 1px solid black;
   float: right;
