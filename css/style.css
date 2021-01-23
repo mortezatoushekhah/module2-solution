@@ -7,12 +7,12 @@ text-align: center;
   width:27%;
   background-color: gray;
   float: left;
-  padding: 1%;
   margin-left: 3%;
 }
 
 .box p {
   color: white;
+  padding: 2%;
 }
 
 .title1 {
