@@ -3,10 +3,11 @@ text-align: center;
 }
 
 .box {
-  width:33%;
+  width:30%;
   background-color: gray;
   float: left;
   padding: 10px;
+  margin-left: 1%;
 }
 
 .box p {
