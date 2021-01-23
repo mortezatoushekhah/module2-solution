@@ -6,6 +6,8 @@ text-align: center;
   max-width:33%;
   background-color: gray;
   color: white;
+  float: left;
+  padding: 3px;
 }
 
 .box. title {
