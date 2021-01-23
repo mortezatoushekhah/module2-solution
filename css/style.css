@@ -21,11 +21,12 @@ border: 1px solid black;
   background-color: #FF007F;
   text-align: center;
   right:0;
+  padding: 5px 45px;
   
 }
 
 .title h3 {
-  padding: 5px 15px;
+  
   
 }
 
