@@ -18,18 +18,21 @@ text-align: center;
 .title1 {
 border: 1px solid black;
   float: right;
-  background-color: rose;
+  background-color: #FF007F;
   text-align: center;
+  padding: 5px 15px;
 }
 .title2 {
 border: 1px solid black;
   float: right;
   background-color: red;
   text-align: center;
+  padding: 5px 15px;
 }
 .title3 {
 border: 1px solid black;
   float: right;
   background-color: yellow;
   text-align: center;
+  padding: 5px 15px;
 }
