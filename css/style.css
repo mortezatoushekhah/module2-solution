@@ -13,7 +13,21 @@ text-align: center;
   color: white;
 }
 
-.title {
+.title1 {
 border: 1px solid black;
   float: right;
+  background-color: rose;
+  text-align: center;
+}
+.title2 {
+border: 1px solid black;
+  float: right;
+  background-color: red;
+  text-align: center;
+}
+.title3 {
+border: 1px solid black;
+  float: right;
+  background-color: yellow;
+  text-align: center;
 }
